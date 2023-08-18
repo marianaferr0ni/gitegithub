@@ -1,5 +1,6 @@
 body{
     background-color: sienna;
+    font-size: 25px;
 }
 .css{
     display: flex;
@@ -7,4 +8,14 @@ body{
 img{
     width: 250px;
     height: 250px;
+}
+button {
+    background-color: #9b7965; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
