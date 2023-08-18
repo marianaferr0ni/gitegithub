@@ -1,6 +1,7 @@
 body{
     background-color: sienna;
     font-size: 25px;
+    color: white;
 }
 .css{
     display: flex;
