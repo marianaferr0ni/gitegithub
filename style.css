@@ -20,3 +20,14 @@ button {
     display: inline-block;
     font-size: 16px;
 }
+div#q1, div#q2, div#q3, div#q4, div#q5, div#q6, div#q7, div#q8, div#q9, div#q10, div#q11, div#q12, div#q13, div#q14, div#q15, div#q16, div#q17, div#q18 
+{
+  display: inline-block;
+  border: 1px solid black;
+  width: 15%;
+  height: 235px;
+}
+div.linha
+{
+  padding-left: 75px;
+}
